@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">resume_anita</string>
+    <string name="title">Resume Anita</string>
+    <string name="tv1">Nama : </string>
+    <string name="college">College : </string>
+    <string name="phone">Phone : </string>
+    <string name="email">Email : </string>
+    <string name="profile">Profil : </string>
+    <string name="education">Education : </string>
+    <string name="tehnical">Technical Skill : </string>
+    <string name="achievement">Achievement : </string>
+    <string name="relatedcourse">Related Course : </string>
+    <string name="internship">Internship : </string>
+</resources>

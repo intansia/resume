@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvName"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tvCollege"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+
+    <TextView
+        android:id="@+id/tvPhone"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+
+    <TextView
+        android:id="@+id/tvProfile"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tvEducation"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+
+    <TextView
+        android:id="@+id/tvTechnical"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tvAchievement"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+
+    <TextView
+        android:id="@+id/tvRelated"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tvInternship"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ffffff" />
+</LinearLayout>
